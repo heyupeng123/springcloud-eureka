@@ -17,6 +17,9 @@ public class PaymentController {
     @Resource
     private PaymentService paymentService;
 
+    @Resource
+    private DiscoveryClient discoveryClient;
+
     @Value("${server.port}")
     private String serverPort;
 
