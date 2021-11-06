@@ -14,6 +14,10 @@
         <module>springcloud-eureka-server7001</module>
         <module>springcloud-gateway-gateway9527</module>
         <module>springcloud-provider-payment8003</module>
+        <module>springcloud-config-center3344</module>
+        <module>springcloudalibaba-provider-payment9001</module>
+        <module>springcloudalibaba-provider-payment9003</module>
+        <module>springcloudalibaba-consumer-nacos-order83</module>
     </modules>
     <packaging>pom</packaging>
 
